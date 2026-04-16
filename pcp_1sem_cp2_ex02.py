@@ -1,1 +1,1 @@
-print("resolver ex 2")
+print("resolver ex 02")
