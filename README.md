@@ -9,3 +9,5 @@
 4- Enzo Giovani Guislandi - RM: 569885
 
 5- Nicolas Castana Nishi - RM: 572242
+
+6- Davi Monteiro - RM: 573290
