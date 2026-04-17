@@ -2,13 +2,13 @@ a = int(input("Digite o valor de A: "))
 b = int(input("Digite o valor de B: "))
 c = int(input("Digite o valor de C: "))
 
-if a > b:
+if a < b:
     a, b = b, a
 
-if c > a:
+if a < c:
     a, c = c, a
 
-if c > b:
+if b < c:
     b, c = c, b
 
 print(f"A = {a}, B = {b}, C = {c}")
